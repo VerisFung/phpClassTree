@@ -1,5 +1,5 @@
 {
-    "name": "mostclan/phpClassTree",
+    "name": "mostclan/php-class-tree",
     "description": "无限分类树（支持子分类排序）",
     "type": "library",
     "license": "MIT",
