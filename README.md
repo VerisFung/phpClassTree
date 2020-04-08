@@ -7,6 +7,11 @@
 无限分类树（支持子分类排序）
 
 ## 使用例子
+使用`composer`安装
+```bash
+composer require mostclan/php-class-tree
+```
+或直接使用类库
 ```php
 <?php
 include __DIR__ . '/../src/ClassTree.php';
