@@ -1,0 +1,15 @@
+{
+    "name": "mostclan/phpClassTree",
+    "description": "无限分类树（支持子分类排序）",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Veris",
+            "email": "562854011@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.6.*"
+    }
+}
